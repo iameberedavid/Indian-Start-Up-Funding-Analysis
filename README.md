@@ -26,4 +26,4 @@ Analytical Questions
 8.Which ten headquarters received the least funding?
 9.What is the trend of funding received by start-ups in the top 5 headquarters from 2018 to 2021?
 
-The tools used for this project are Jupyter Notebook and Power BI. The python libraries used on Jupyter Notebook are pandas, numpy, matplotlib, seaborn and scipy.
+The tools used for this project are Jupyter Notebook and Power BI. The python libraries used on Jupyter Notebook are pandas, numpy, matplotlib, seaborn, scipy and os.

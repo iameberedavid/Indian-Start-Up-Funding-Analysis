@@ -12,13 +12,15 @@ It is assumed that my team is trying to venture into the Indian start-up ecosyst
 
 ## Introduction
 
-The CRISP-DM (Cross-Industry Standard Process for Data Mining) framework was used as a guide to explore the data and observe the patterns that generated very important insights. This framework involves - 
-•Business understanding: understanding the needs of my team
-•Data understanding: understanding the data and the expected information
-•Data preparation: cleaning the data and formatting the data types
-•Modelling: manipulating the data to draw insights
-•Evaluation: assessing the results against the business objectives and
-•Deployment: presenting the findings.
+The CRISP-DM (Cross-Industry Standard Process for Data Mining) framework was used as a guide to explore the data and observe the patterns that generated very important insights. This framework involves:
+
+- Business understanding: understanding the needs of my team
+- Data understanding: understanding the data and the expected information
+- Data preparation: cleaning the data and formatting the data types
+- Modelling: manipulating the data to draw insights
+- Evaluation: assessing the results against the business objectives and
+- Deployment: presenting the findings.
+
 Since this is not a Machine Learning project, data analysis was performed in place of modelling. The data analysis results showed meaningful patterns from the dataset that were evaluated against the business objectives.
 
 ## Hypothesis

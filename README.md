@@ -1,4 +1,6 @@
-#INDIAN START-UP FUNDING ANALYSIS
+# INDIAN START-UP FUNDING ANALYSIS
+
+## Technologies
 
 ## Project Scenario
 

@@ -41,11 +41,11 @@ Alternate hypothesis: The sector a start-up belongs to influenced the funding am
 
 6.Which ten sectors received the least funding?
 
-7.Which ten headquarters received the most funding?
+7. Which ten headquarters received the most funding?
 
-8.Which ten headquarters received the least funding?
+8. Which ten headquarters received the least funding?
 
-9.What is the trend of funding received by start-ups in the top 5 headquarters from 2018 to 2021?
+9. What is the trend of funding received by start-ups in the top 5 headquarters from 2018 to 2021?
 
 ## Article Publication
 

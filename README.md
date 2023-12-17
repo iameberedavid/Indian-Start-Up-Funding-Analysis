@@ -29,6 +29,8 @@ Alternate hypothesis: The sector a start-up belongs to influenced the funding am
 
 ## Analytical Questions
 
+The following questions were analyzed with the aid of Python visualization libraries (Matplotlib and Seaborn).
+
 1. How many start-ups got funded each year?
 
 2. What is the total funding amount received by start-ups each year?

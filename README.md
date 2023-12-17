@@ -47,4 +47,18 @@ Alternate hypothesis: The sector a start-up belongs to influenced the funding am
 
 9.What is the trend of funding received by start-ups in the top 5 headquarters from 2018 to 2021?
 
-The tools used for this project are Jupyter Notebook and Power BI. The python libraries used on Jupyter Notebook are pandas, numpy, matplotlib, seaborn, scipy and os.
+## Article Publication
+
+I went further to explain the work process of this project in an article published on Medium. Click on this link to find the article: [INDIAN START-UP FUNDING ANALYSIS (2018–2021)](https://eberedavid.medium.com/indian-start-up-funding-analysis-2018-2021-c33583474eb7)
+
+## License
+
+This project is licensed under the MIT License. See the LICENSE file for details.
+
+## Appreciation
+
+Thanks for taking the time to go through this Readme.md file and reviewing this project. Please feel free to browse through other repositories on this GitHub account for other projects on SQL, Excel, Power BI, Tableau, Python, R, and Machine Learning.
+
+## Contact
+
+Feel free to send your reviews, suggestions, questions and collaboration requests to eberedavid326@gmail.com

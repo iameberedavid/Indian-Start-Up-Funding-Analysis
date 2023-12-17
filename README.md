@@ -27,15 +27,24 @@ This project did not include data modelling, and was only deployed to Power BI t
 Null hypothesis: The sector a start-up belongs to did not influence the funding amount the start-up received.
 Alternate hypothesis: The sector a start-up belongs to influenced the funding amount the start-up received.
 
-Analytical Questions
+## Analytical Questions
+
 1.How many start-ups got funded each year?
+
 2.What is the total funding amount received by start-ups each year?
+
 3.Which ten start-ups received the most funding?
+
 4.Which ten start-ups received the least funding?
+
 5.Which ten sectors received the most funding?
+
 6.Which ten sectors received the least funding?
+
 7.Which ten headquarters received the most funding?
+
 8.Which ten headquarters received the least funding?
+
 9.What is the trend of funding received by start-ups in the top 5 headquarters from 2018 to 2021?
 
 The tools used for this project are Jupyter Notebook and Power BI. The python libraries used on Jupyter Notebook are pandas, numpy, matplotlib, seaborn, scipy and os.

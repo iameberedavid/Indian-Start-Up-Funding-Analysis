@@ -3,6 +3,8 @@
 ## Technologies
 
 ![Data Analysis](https://img.shields.io/badge/Data-Analysis-blue)
+![Python](https://img.shields.io/badge/Data-Analysis-blue)
+![Jupyter Notebook](https://img.shields.io/badge/Data-Analysis-blue)
 
 ## Project Scenario
 
@@ -19,7 +21,7 @@ The CRISP-DM (Cross-Industry Standard Process for Data Mining) framework was use
 •Deployment: presenting the findings.
 Since this is not a Machine Learning project, data analysis was performed in place of modelling. The data analysis results showed meaningful patterns from the dataset that were evaluated against the business objectives.
 
-Hypothesis
+## Hypothesis
 Null hypothesis: The sector a start-up belongs to did not influence the funding amount the start-up received.
 Alternate hypothesis: The sector a start-up belongs to influenced the funding amount the start-up received.
 

@@ -2,7 +2,7 @@
 
 ## Technologies
 
-[Data Analysis](https://img.shields.io/badges-Data-Analysis-blue)
+[Data Analysis](https://img.io.shields/badges-Data-Analysis-blue)
 
 ## Project Scenario
 

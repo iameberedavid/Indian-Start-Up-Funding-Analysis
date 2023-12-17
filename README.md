@@ -29,17 +29,17 @@ Alternate hypothesis: The sector a start-up belongs to influenced the funding am
 
 ## Analytical Questions
 
-1.How many start-ups got funded each year?
+1. How many start-ups got funded each year?
 
-2.What is the total funding amount received by start-ups each year?
+2. What is the total funding amount received by start-ups each year?
 
-3.Which ten start-ups received the most funding?
+3. Which ten start-ups received the most funding?
 
-4.Which ten start-ups received the least funding?
+4. Which ten start-ups received the least funding?
 
-5.Which ten sectors received the most funding?
+5. Which ten sectors received the most funding?
 
-6.Which ten sectors received the least funding?
+6. Which ten sectors received the least funding?
 
 7. Which ten headquarters received the most funding?
 
